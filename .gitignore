@@ -1,0 +1,86 @@
+# ------------------------------
+# Python compiled files
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ------------------------------
+# Virtual environments
+# ------------------------------
+venv/
+.venv/
+myenv/
+
+# ------------------------------
+# Distribution / packaging
+# ------------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# ------------------------------
+# Installer logs
+# ------------------------------
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ------------------------------
+# Unit test / coverage reports
+# ------------------------------
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ------------------------------
+# PyInstaller
+# ------------------------------
+*.manifest
+*.spec
+
+# ------------------------------
+# Jupyter Notebook
+# ------------------------------
+.ipynb_checkpoints
+
+# ------------------------------
+# Logs and temp files
+# ------------------------------
+*.log
+*.tmp
+*.out
+*.bak
+*.swp
+output/
+
+# ------------------------------
+# Data files (optional: ignore if large)
+# ------------------------------
+*.csv
+*.h5
+*.npy
+
+# ------------------------------
+# VSCode settings
+# ------------------------------
+.vscode/
+
+# ------------------------------
+# macOS files
+# ------------------------------
+.DS_Store
+
+# ------------------------------
+# Site-packages inside virtual environments
+# ------------------------------
+*/lib/python*/site-packages/
+*/lib/python*/site-packages/
+
